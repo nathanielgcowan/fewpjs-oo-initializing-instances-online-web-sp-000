@@ -1,2 +1,4 @@
 // Write your code here
-class Breakfast {}
+class Breakfast {};
+class Lunch {};
+class Dinner {}
